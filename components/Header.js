@@ -121,7 +121,7 @@ const Header = () => {
               width={32}
               height={32}
             />
-            <span className="font-extrabold text-md">ACMELEGAL</span>
+            <span className="font-extrabold text-md">{config.appName}</span>
           </Link>
         </div>
         <div className="flex lg:hidden">

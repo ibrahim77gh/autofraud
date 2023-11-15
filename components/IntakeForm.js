@@ -3,7 +3,7 @@ import React from 'react'
 const Form = () => {
   return (
     <>
-<div class="border border-gray-800 p-6 rounded-md max-w-md mx-auto mb-4">
+<div class="border border-gray-800 p-6 rounded-md max-w-md mx-auto m-20">
     <h1 className='text-indigo-500 text-4xl text-center mb-4'>Auto Fraud Victim Intake Form</h1>
 
     <form class="space-y-6">

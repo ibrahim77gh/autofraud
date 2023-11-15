@@ -26,7 +26,7 @@ const Footer = () => {
                                 height={24}
                             />
                             <strong className="font-extrabold tracking-tight text-base md:text-lg">
-                                ACMELEGAL
+                                {config.appName}
                             </strong>
                         </Link>
 

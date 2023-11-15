@@ -15,7 +15,6 @@ export default function Page() {
       <Start/>
       <CTA/>
       <Hero/>
-      <IntakeForm/>
       <Testimonials3/>
       <Pricing/>
       <FAQ/>
